@@ -6,10 +6,10 @@ The api works on both GET/POST requests. The Request body should contain "userna
 This Django app uses Gmail server for sending emails.
 
 #### 1. GET/POST request with correct fields
-    ![Correct api request](staticfiles/ss1.png)
+![Correct api request](staticfiles/ss1.png)
 #### 2. GET/POST request with incorrect fields
-    ![Incorrect api request](staticfiles/ss2.png)
+![Incorrect api request](staticfiles/ss2.png)
 
 
 ### Welcome Email:
-    ![Welcome Email](staticfiles/ss3.png)
+![Welcome Email](staticfiles/ss3.png)
